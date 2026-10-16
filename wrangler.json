@@ -14,11 +14,11 @@
 		
 }
 	{
-  // ...
+
   "observability": {
     "enabled": false
   },
-  // ...
+  
 }
 	}
 }
